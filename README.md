@@ -16,7 +16,7 @@
  Click Submit
  You should see the alert box pop up - the Java Script code is executed
  
- Go again to the Bug Report Tab and enter in the following: "<b>Nice bold bug</b>"
+ Go again to the Bug Report Tab and enter in the following: \`<b>Nice bold bug\`</b>"
  Click Submit
  You should see the bold text in the bug feed
 
