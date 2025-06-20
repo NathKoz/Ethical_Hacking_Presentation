@@ -1,6 +1,6 @@
-# Instructions to exploit the weaknesses 
+# Instructions to Exploit the Weaknesses 
 
-# Vulnerablities SQL Injection:
+# SQL Injection:
 
  Username:  ' OR '1'='1
  Password:  ' OR '1'='1
